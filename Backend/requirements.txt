@@ -1,10 +1,6 @@
-tensorflow
 keras
-pandas
-numpy
-jupyter
-notebook
-tqdm
-opencv-contrib-python
+flask
+flask_cors
 pillow
-scikit-learn
+numpy
+base64
